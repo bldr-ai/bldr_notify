@@ -1,5 +1,5 @@
 # BLDR Notify
-
+![preview](https://bldr.is-pretty.cool/5XUYV73.gif)
 A beautiful, production-ready notification system for FiveM with smooth animations, multiple alert types, and clean API design.
 
 ## Features
